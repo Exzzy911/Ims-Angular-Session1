@@ -1,0 +1,29 @@
+//------------ ngIf Directive // same as If , Else
+
+// import { Component, OnInit } from '@angular/core';
+
+// @Component({
+//   selector: 'app-test',
+//   template: `
+// <div *ngIf="displayName; then thenX; else elseX"></div>
+
+//   <ng-template #thenX>
+//     <h2>This worked</h2>
+//   </ng-template>
+
+//   <ng-template #elseX>
+//     <h2>This didn't worked</h2>
+//   </ng-template>
+
+//   `,
+//   styles: []
+// })
+// export class TestComponent implements OnInit {
+//   displayName = false;
+
+//   constructor() { }
+
+//   ngOnInit(): void {
+//   }
+
+// }
